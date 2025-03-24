@@ -1,0 +1,20 @@
+.main{
+    height: 460px;
+    width: 500px;
+    background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+}
+.main div{
+    width: 100px;
+    height: 90px;
+    width:calc(100%/5) ;
+    
+}
+.red{
+    background-color: red;
+
+}
+.black{
+    background-color: black;
+}
